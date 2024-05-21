@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "compile-sass": "sass styles:output"
+    "compile-sass": "sass styles:output",
+    "compile-sass2": "sass ./styles/index.scss ./output/index.css
   },
   "keywords": [],
   "author": "",
