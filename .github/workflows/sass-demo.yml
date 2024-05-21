@@ -10,7 +10,7 @@ jobs:
         with:
           node-version: '20'
       - run: npm install sass 
-      - run: npm run compile-sass
+      - run: npm run compile-sass2
       
       
  
