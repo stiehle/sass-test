@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "compile-sass": "sass styles:output",
-    "compile-sass2": "sass ./styles/index.scss ./output/index.css
+    "compile-sass2": "sass ./styles/index.scss ./output/index.css"
   },
   "keywords": [],
   "author": "",
